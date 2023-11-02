@@ -13,7 +13,7 @@ i)Import
 
 -import it from the ‘react’ library
 
- import { useState } from ‘react’ ;
+  import { useState } from ‘react’ ;
   
 ii) Initialize State
 
