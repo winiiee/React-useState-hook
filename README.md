@@ -11,6 +11,7 @@ A minor project(BMI Calculator) using react useState and some conditionals
 i)Import
 - import it from the ‘react’ library
   import { useState } from ‘react’ ;
+  
 ii) Initialize State
 -initialize state by calling ‘useState’ function within the functional component
 
@@ -21,6 +22,7 @@ const[count, setCount] = useState(0);
 count is the current state and setCount is a function that updates the count state
 
 3)Where to use?
+
 -use the state in the component’s JSX or logic
 
 
