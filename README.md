@@ -10,7 +10,9 @@ A minor project(BMI Calculator) using react useState and some conditionals
 2)How to use it?
 
 i)Import
+
 -import it from the ‘react’ library
+
  import { useState } from ‘react’ ;
   
 ii) Initialize State
