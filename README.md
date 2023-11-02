@@ -6,6 +6,7 @@ A minor project(BMI Calculator) using react useState and some conditionals
 - A container for a piece of data that can change over time.
 - It allows us to add a state to our functional components.
 - A way to manage data that can change over time and component re-renders when the state changes
+  
 2)How to use it?
 i)Import
 - import it from the ‘react’ library
