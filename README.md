@@ -14,6 +14,7 @@ i)Import
   import { useState } from ‘react’ ;
   
 ii) Initialize State
+
 -initialize state by calling ‘useState’ function within the functional component
 
 -this function takes an initial value as an argument and returns an array with two elements: current state and a function to update that state
