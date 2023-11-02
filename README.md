@@ -10,11 +10,14 @@ A minor project(BMI Calculator) using react useState and some conditionals
 2)How to use it?
 i)Import
 - import it from the ‘react’ library
-  import { useState } from ‘react’;
+  import { useState } from ‘react’ ;
 ii) Initialize State
 -initialize state by calling ‘useState’ function within the functional component
+
 -this function takes an initial value as an argument and returns an array with two elements: current state and a function to update that state
+
 const[count, setCount] = useState(0);
+
 count is the current state and setCount is a function that updates the count state
 
 3)Where to use?
