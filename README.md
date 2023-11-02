@@ -1,7 +1,5 @@
 # React-useState
 A minor project(BMI Calculator) using react useState and some conditionals
-
-
 1)useState
 - A container for a piece of data that can change over time.
 - It allows us to add a state to our functional components.
